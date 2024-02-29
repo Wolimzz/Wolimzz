@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Student IT<br>⚡ Discord Bot / HTML Developer
+🔭 I’m Student IT<br>⚡ Discord Bot / HTML / React Native Developer
 
 
 ## 🌐 Socials:
